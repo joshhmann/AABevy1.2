@@ -1,3 +1,10 @@
+> **Owner fork:** this checkout is `joshhmann/AABevy1.2`, supporting the PlayerBot
+> migration in `joshhmann/AAEmu-1.2-Rust`. `origin` is writable; upstream/legacy
+> remotes are intake-only with push URLs disabled. Publish feature branches only
+> to the owner fork; do not open upstream PRs or send issue/comments without the
+> owner asking. Keep bot decisions and gameplay authority on the server. See
+> [migration status](docs/playerbot-migration.md) for version/proof limits.
+
 # AABevy1.2: notes for coding agents
 
 A Bevy (0.20) client for ArcheAge 1.2 that looks and behaves like the original, built from the user's own copy of
